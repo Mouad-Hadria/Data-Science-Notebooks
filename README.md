@@ -43,9 +43,3 @@ This repository contains the topics I have covered in my beginning journey of ma
 - **Dijkstra Algorithm**
 - **Floyd–Warshall Algorithm**
 - **Linear Interpolation**
-
----
-
-Each notebook is designed to provide a comprehensive understanding of the respective topic, including step-by-step code implementations and thorough explanations of the results. 
-
-Feel free to explore the notebooks and use them as a reference for your own learning and projects!
